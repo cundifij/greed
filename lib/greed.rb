@@ -1,5 +1,6 @@
 require "greed/version"
+require "turn"
+require "score"
 
 module Greed
-  # Your code goes here...
 end
